@@ -1,5 +1,5 @@
 # string = data types that stores sequence of characters
-# concatenation  "Raha" + "Ahmed" = "RahaAhmed"
+# concatenation  "Rahima" + "Akter" = "RahimaAkter"
 # length of a string->  len(str)
 
 name1 = "Rahima"
@@ -15,7 +15,7 @@ print(len(add2))
 
 # indexing
 # indexing = strigns characters position sequentially
-# str = "raha" -> indexing  str[0]=r  str[1]=a  str[2]=h  str[3]=a
+# str = "rahima" -> indexing  str[0]=r  str[1]=a  str[2]=h  str[3]=i
 # indexing always starts at [0]
 
 name = "Rahima"
@@ -23,7 +23,7 @@ name[0]
 name[1]
 print (name[1])
 
-# name[2] = "m"  not allowed to assign new value on string in python
+# name[2] = "d"  not allowed to assign new value on string in python
 
 
 #Slicing
