@@ -2,8 +2,8 @@
 # concatenation  "Raha" + "Ahmed" = "RahaAhmed"
 # length of a string->  len(str)
 
-name1 = "Raha"
-name2 = "Ahmed"
+name1 = "Rahima"
+name2 = "Akter"
 add = name1+name2
 print (add)
 length = len(name1)
@@ -18,7 +18,7 @@ print(len(add2))
 # str = "raha" -> indexing  str[0]=r  str[1]=a  str[2]=h  str[3]=a
 # indexing always starts at [0]
 
-name = "Raha"
+name = "Rahima"
 name[0]
 name[1]
 print (name[1])
